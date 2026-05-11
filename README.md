@@ -11,3 +11,5 @@ Successfully pushed to GitHub!
 ## Technologies
 - Python 3
 - Git & GitHub
+
+## Updated from GitHub
