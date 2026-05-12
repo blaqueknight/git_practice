@@ -29,3 +29,7 @@ def power(a, b):
     return a ** b
 print("Calculator ready!")
 # Critical fix
+
+def percentage(value, percent):
+    """Calculate percentage of a value"""
+    return (value * percent) / 100
